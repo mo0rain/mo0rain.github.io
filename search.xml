@@ -1,182 +1,163 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>书架</title>
-      <link href="/2025/12/11/basis/%E4%B9%A6%E6%9E%B6/"/>
-      <url>/2025/12/11/basis/%E4%B9%A6%E6%9E%B6/</url>
-      
-        <content type="html"><![CDATA[<p>蛊真人<br>六界哀歌<br>屌丝道士<br>河清海晏</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>游戏</title>
+    <url>/2025/12/11/basis/%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<p>原神<br>明日方舟<br>绝区零<br>崩铁</p>
+]]></content>
       <categories>
-          
-          <category> basis </category>
-          
+        <category>basis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 书架 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>语录</title>
-      <link href="/2025/12/11/basis/%E8%AF%AD%E5%BD%95/"/>
-      <url>/2025/12/11/basis/%E8%AF%AD%E5%BD%95/</url>
-      
-        <content type="html"><![CDATA[<p>“我曾经呐喊过，渐渐的我发不出声音；我曾经哭泣过，渐渐的我不再流泪；我曾经悲伤过，渐渐的我能承受一切；我曾经喜悦过，渐渐的我看淡世间。而如今，我只剩下面无表情，我的目光如磐石般坚硬，我的心中剩下坚持。这就是我，一个小人物，方源的——坚持！”</p><p>“岂不闻天无绝人之路，只要我想走，路就在脚下！”</p><p>我清楚的知道，人与人的路都是不可复制的，我走在我自己的人生路上，哪怕路途风雨再大，大到我步履为艰，哪怕荆棘重生，刺的我伤痕遍布，我也仍旧痴痴笑笑，我体会此中滋味。我相信独游的小船，总有一天会看到两岸群山青翠，虫鸟同鸣。</p><p>独帜入渊深未知，身似浮萍命难持，千舟皆朝归海处，一苇轻拨戏浪巅。惊鸿四散鱼逃尽，唯有残帆傲此间，待到天开云雾散，负手直望笑苍天。</p><p>天道酬勤！</p><p>千磨万击心铸铁，殚精竭虑铸一剑</p>]]></content>
-      
-      
+      <tags>
+        <tag>游戏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日锻炼项目</title>
+    <url>/2025/12/11/%E5%81%A5%E8%BA%AB/%E6%AF%8F%E6%97%A5%E9%94%BB%E7%82%BC%E9%A1%B9%E7%9B%AE/</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>数量</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>俯卧撑</td>
+<td>300</td>
+<td></td>
+</tr>
+<tr>
+<td>颈椎锻炼</td>
+<td>300</td>
+<td></td>
+</tr>
+<tr>
+<td>臂力棒</td>
+<td>100</td>
+<td></td>
+</tr>
+<tr>
+<td>凯格尔</td>
+<td>300</td>
+<td></td>
+</tr>
+<tr>
+<td>空击</td>
+<td>15 mins</td>
+<td></td>
+</tr>
+<tr>
+<td>卷腹</td>
+<td>300</td>
+<td></td>
+</tr>
+<tr>
+<td>核心</td>
+<td>300</td>
+<td></td>
+</tr>
+<tr>
+<td>深蹲</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>马步</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>小臂强化</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>小碎步冲拳</td>
+<td>15 mins</td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
       <categories>
-          
-          <category> basis </category>
-          
+        <category>健身</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 语录 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>游戏</title>
-      <link href="/2025/12/11/basis/%E6%B8%B8%E6%88%8F/"/>
-      <url>/2025/12/11/basis/%E6%B8%B8%E6%88%8F/</url>
-      
-        <content type="html"><![CDATA[<p>原神<br>明日方舟<br>绝区零<br>崩铁</p>]]></content>
-      
-      
+      <tags>
+        <tag>健身</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>技术栈</title>
+    <url>/2025/12/11/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E6%A0%88/</url>
+    <content><![CDATA[<p>CTF<br>电子数据取证<br>大数据建模<br>python、java、c++、c语言、MySQL、php、html、CSS、JavaScript、pyqt、PySide6、 nodejs 、 Vue 、爬虫、 MailMerge 、 WPSoffice、Linux、渗透测试、tp6、ElasticSearch 、 xmind</p>
+]]></content>
       <categories>
-          
-          <category> basis </category>
-          
+        <category>技术</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 游戏 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>影视剧</title>
-      <link href="/2025/12/11/basis/%E5%BD%B1%E8%A7%86%E5%89%A7/"/>
-      <url>/2025/12/11/basis/%E5%BD%B1%E8%A7%86%E5%89%A7/</url>
-      
-        <content type="html"><![CDATA[<h1 id="番剧"><a href="#番剧" class="headerlink" title="番剧"></a>番剧</h1><p>刀剑神域<br>某科学的超电磁炮<br>海贼王<br>火影忍者<br>灵笼<br>赛马娘<br>jojo<br>鬼灭之刃<br>致不灭的你<br>咒术回战<br>夏日重现<br>从零开始的异世界生活<br>路人超能100<br>青春猪头少年不会梦到兔女郎学姐<br>境界的彼方<br>玉子爱情故事<br>玉子市场<br>冰菓<br>奥特曼<br>明日方舟<br>时光代理人<br>罗小黑战记<br>凡人修仙传<br>镇魂街<br>牧神记<br>五等分的新娘<br>四月是你的谎言<br>Charlotte<br>我们仍未知道那天所看见的花的名字。<br>言叶之庭<br>小林家的龙女仆<br>轻音少女<br>干物妹！小埋<br>路人女主的养成方法<br>你的名字<br>冰雪奇缘<br>樱花庄的宠物女孩<br>我的青春恋爱物语果然有问题。<br>龙与虎<br>功夫熊猫<br>辉夜大小姐想让我告白<br>珈百璃的堕落<br>驯龙高手<br>中二病也要谈恋爱！<br>超能陆战队<br>宇崎学妹想要玩<br>甘城光辉游乐园<br>莉可丽丝<br>虚构推理<br>无能力者娜娜<br>魔女之旅<br>工作细胞<br>总之就是非常可爱<br>孤独摇滚！<br>不时用俄语小声说真心话的邻桌艾莉同学<br>在下坂本，有何贵干？<br>炎炎消防队<br>来自深渊<br>约会大作战<br>在地下城寻求邂逅是否搞错了什么<br>Ｄｒ．ＳＴＯＮＥ 石纪元<br>CLANNAD<br>多罗罗</p><h1 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h1><p>釜山行<br>让子弹飞<br>恶意<br>我不是药神<br>摔跤吧！爸爸<br>熔炉<br>山村老尸<br>恐怖游轮<br>忠犬八公的故事</p><h1 id="电视剧"><a href="#电视剧" class="headerlink" title="电视剧"></a>电视剧</h1><p>三叉戟<br>唐朝诡事录</p><h1 id="其他-未分类"><a href="#其他-未分类" class="headerlink" title="其他 未分类"></a>其他 未分类</h1><p>绝命毒师<br>神探狄仁杰</p><p>触不可及<br>本杰明·巴顿奇事<br>飞屋环游记</p><p>看不见的客人<br>误杀</p><p>肖申克的救赎<br>沉默的真相<br>隐蔽的角落</p><p>哈利波特</p><p>疯狂的石头</p>]]></content>
-      
-      
+      <tags>
+        <tag>技术栈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025.12.12日记</title>
+    <url>/2025/12/11/%E6%97%A5%E8%AE%B0/2025.12.12/</url>
+    <content><![CDATA[<p>昨天我又把博客拾起来了，以此来记录一下自己，并督促自己不断成长。</p>
+]]></content>
       <categories>
-          
-          <category> basis </category>
-          
+        <category>日记</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 影视剧 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2025.12.12日记</title>
-      <link href="/2025/12/11/%E6%97%A5%E8%AE%B0/2025.12.12/"/>
-      <url>/2025/12/11/%E6%97%A5%E8%AE%B0/2025.12.12/</url>
-      
-        <content type="html"><![CDATA[<p>昨天我又把博客拾起来了，以此来记录一下自己，并督促自己不断成长。</p>]]></content>
-      
-      
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>影视剧</title>
+    <url>/2025/12/11/basis/%E5%BD%B1%E8%A7%86%E5%89%A7/</url>
+    <content><![CDATA[<h1 id="番剧"><a href="#番剧" class="headerlink" title="番剧"></a>番剧</h1><p>刀剑神域<br>某科学的超电磁炮<br>海贼王<br>火影忍者<br>灵笼<br>赛马娘<br>jojo<br>鬼灭之刃<br>致不灭的你<br>咒术回战<br>夏日重现<br>从零开始的异世界生活<br>路人超能100<br>青春猪头少年不会梦到兔女郎学姐<br>境界的彼方<br>玉子爱情故事<br>玉子市场<br>冰菓<br>奥特曼<br>明日方舟<br>时光代理人<br>罗小黑战记<br>凡人修仙传<br>镇魂街<br>牧神记<br>五等分的新娘<br>四月是你的谎言<br>Charlotte<br>我们仍未知道那天所看见的花的名字。<br>言叶之庭<br>小林家的龙女仆<br>轻音少女<br>干物妹！小埋<br>路人女主的养成方法<br>你的名字<br>冰雪奇缘<br>樱花庄的宠物女孩<br>我的青春恋爱物语果然有问题。<br>龙与虎<br>功夫熊猫<br>辉夜大小姐想让我告白<br>珈百璃的堕落<br>驯龙高手<br>中二病也要谈恋爱！<br>超能陆战队<br>宇崎学妹想要玩<br>甘城光辉游乐园<br>莉可丽丝<br>虚构推理<br>无能力者娜娜<br>魔女之旅<br>工作细胞<br>总之就是非常可爱<br>孤独摇滚！<br>不时用俄语小声说真心话的邻桌艾莉同学<br>在下坂本，有何贵干？<br>炎炎消防队<br>来自深渊<br>约会大作战<br>在地下城寻求邂逅是否搞错了什么<br>Ｄｒ．ＳＴＯＮＥ 石纪元<br>CLANNAD<br>多罗罗</p>
+<h1 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h1><p>釜山行<br>让子弹飞<br>恶意<br>我不是药神<br>摔跤吧！爸爸<br>熔炉<br>山村老尸<br>恐怖游轮<br>忠犬八公的故事</p>
+<h1 id="电视剧"><a href="#电视剧" class="headerlink" title="电视剧"></a>电视剧</h1><p>三叉戟<br>唐朝诡事录</p>
+<h1 id="其他-未分类"><a href="#其他-未分类" class="headerlink" title="其他 未分类"></a>其他 未分类</h1><p>绝命毒师<br>神探狄仁杰</p>
+<p>触不可及<br>本杰明·巴顿奇事<br>飞屋环游记</p>
+<p>看不见的客人<br>误杀</p>
+<p>肖申克的救赎<br>沉默的真相<br>隐蔽的角落</p>
+<p>哈利波特</p>
+<p>疯狂的石头</p>
+]]></content>
       <categories>
-          
-          <category> 日记 </category>
-          
+        <category>basis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 日记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>技术栈</title>
-      <link href="/2025/12/11/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E6%A0%88/"/>
-      <url>/2025/12/11/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E6%A0%88/</url>
-      
-        <content type="html"><![CDATA[<p>CTF<br>电子数据取证<br>大数据建模<br>python、java、c++、c语言、MySQL、php、html、CSS、JavaScript、pyqt、PySide6、 nodejs 、 Vue 、爬虫、 MailMerge 、 WPSoffice、Linux、渗透测试、tp6、ElasticSearch 、 xmind</p>]]></content>
-      
-      
+      <tags>
+        <tag>影视剧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>书架</title>
+    <url>/2025/12/11/basis/%E4%B9%A6%E6%9E%B6/</url>
+    <content><![CDATA[<p>蛊真人<br>六界哀歌<br>屌丝道士<br>河清海晏</p>
+]]></content>
       <categories>
-          
-          <category> 技术 </category>
-          
+        <category>basis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 技术栈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>每日锻炼项目</title>
-      <link href="/2025/12/11/%E5%81%A5%E8%BA%AB/%E6%AF%8F%E6%97%A5%E9%94%BB%E7%82%BC%E9%A1%B9%E7%9B%AE/"/>
-      <url>/2025/12/11/%E5%81%A5%E8%BA%AB/%E6%AF%8F%E6%97%A5%E9%94%BB%E7%82%BC%E9%A1%B9%E7%9B%AE/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>项目</th><th>数量</th><th>备注</th></tr></thead><tbody><tr><td>俯卧撑</td><td>300</td><td></td></tr><tr><td>颈椎锻炼</td><td>300</td><td></td></tr><tr><td>臂力棒</td><td>100</td><td></td></tr><tr><td>凯格尔</td><td>300</td><td></td></tr><tr><td>空击</td><td>15 mins</td><td></td></tr><tr><td>卷腹</td><td>300</td><td></td></tr><tr><td>核心</td><td>300</td><td></td></tr><tr><td>深蹲</td><td></td><td></td></tr><tr><td>马步</td><td></td><td></td></tr><tr><td>小臂强化</td><td></td><td></td></tr><tr><td>小碎步冲拳</td><td>15 mins</td><td></td></tr></tbody></table>]]></content>
-      
-      
+      <tags>
+        <tag>书架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>语录</title>
+    <url>/2025/12/11/basis/%E8%AF%AD%E5%BD%95/</url>
+    <content><![CDATA[<p>“我曾经呐喊过，渐渐的我发不出声音；我曾经哭泣过，渐渐的我不再流泪；我曾经悲伤过，渐渐的我能承受一切；我曾经喜悦过，渐渐的我看淡世间。而如今，我只剩下面无表情，我的目光如磐石般坚硬，我的心中剩下坚持。这就是我，一个小人物，方源的——坚持！”</p>
+<p>“岂不闻天无绝人之路，只要我想走，路就在脚下！”</p>
+<p>我清楚的知道，人与人的路都是不可复制的，我走在我自己的人生路上，哪怕路途风雨再大，大到我步履为艰，哪怕荆棘重生，刺的我伤痕遍布，我也仍旧痴痴笑笑，我体会此中滋味。我相信独游的小船，总有一天会看到两岸群山青翠，虫鸟同鸣。</p>
+<p>独帜入渊深未知，身似浮萍命难持，千舟皆朝归海处，一苇轻拨戏浪巅。惊鸿四散鱼逃尽，唯有残帆傲此间，待到天开云雾散，负手直望笑苍天。</p>
+<p>天道酬勤！</p>
+<p>千磨万击心铸铁，殚精竭虑铸一剑</p>
+]]></content>
       <categories>
-          
-          <category> 健身 </category>
-          
+        <category>basis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 健身 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>语录</tag>
+      </tags>
+  </entry>
 </search>
