@@ -1,207 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>2025.12.13日记</title>
-      <link href="/2025/12/13/%E6%97%A5%E8%AE%B0/2025/12%E6%9C%88/2025.12.13/"/>
-      <url>/2025/12/13/%E6%97%A5%E8%AE%B0/2025/12%E6%9C%88/2025.12.13/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+<search>
+  <entry>
+    <title>书架</title>
+    <url>/2025/12/11/basis/%E4%B9%A6%E6%9E%B6/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> 日记 </category>
-          
+        <category>basis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 日记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2025.12.12日记</title>
-      <link href="/2025/12/12/%E6%97%A5%E8%AE%B0/2025/12%E6%9C%88/2025.12.12/"/>
-      <url>/2025/12/12/%E6%97%A5%E8%AE%B0/2025/12%E6%9C%88/2025.12.12/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+      <tags>
+        <tag>书架</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>锻炼</title>
+    <url>/2025/12/11/%E5%81%A5%E8%BA%AB/%E9%94%BB%E7%82%BC/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> 日记 </category>
-          
+        <category>健身</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 日记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>书架</title>
-      <link href="/2025/12/11/basis/%E4%B9%A6%E6%9E%B6/"/>
-      <url>/2025/12/11/basis/%E4%B9%A6%E6%9E%B6/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+      <tags>
+        <tag>健身</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>影视剧</title>
+    <url>/2025/12/11/basis/%E5%BD%B1%E8%A7%86%E5%89%A7/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> basis </category>
-          
+        <category>basis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 书架 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>游戏</title>
-      <link href="/2025/12/11/basis/%E6%B8%B8%E6%88%8F/"/>
-      <url>/2025/12/11/basis/%E6%B8%B8%E6%88%8F/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+      <tags>
+        <tag>影视剧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>技术栈</title>
+    <url>/2025/12/11/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E6%A0%88/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> basis </category>
-          
+        <category>技术</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 游戏 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>影视剧</title>
-      <link href="/2025/12/11/basis/%E5%BD%B1%E8%A7%86%E5%89%A7/"/>
-      <url>/2025/12/11/basis/%E5%BD%B1%E8%A7%86%E5%89%A7/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+      <tags>
+        <tag>技术栈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>语录</title>
+    <url>/2025/12/11/basis/%E8%AF%AD%E5%BD%95/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> basis </category>
-          
+        <category>basis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 影视剧 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>语录</title>
-      <link href="/2025/12/11/basis/%E8%AF%AD%E5%BD%95/"/>
-      <url>/2025/12/11/basis/%E8%AF%AD%E5%BD%95/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+      <tags>
+        <tag>语录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025.12.13日记</title>
+    <url>/2025/12/13/%E6%97%A5%E8%AE%B0/2025/12%E6%9C%88/2025.12.13/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> basis </category>
-          
+        <category>日记</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 语录 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>技术栈</title>
-      <link href="/2025/12/11/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E6%A0%88/"/>
-      <url>/2025/12/11/%E6%8A%80%E6%9C%AF/%E6%8A%80%E6%9C%AF%E6%A0%88/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>游戏</title>
+    <url>/2025/12/11/basis/%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> 技术 </category>
-          
+        <category>basis</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 技术栈 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>每日锻炼项目</title>
-      <link href="/2025/12/11/%E5%81%A5%E8%BA%AB/%E6%AF%8F%E6%97%A5%E9%94%BB%E7%82%BC%E9%A1%B9%E7%9B%AE/"/>
-      <url>/2025/12/11/%E5%81%A5%E8%BA%AB/%E6%AF%8F%E6%97%A5%E9%94%BB%E7%82%BC%E9%A1%B9%E7%9B%AE/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+      <tags>
+        <tag>游戏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2025.12.12日记</title>
+    <url>/2025/12/12/%E6%97%A5%E8%AE%B0/2025/12%E6%9C%88/2025.12.12/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> 健身 </category>
-          
+        <category>日记</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 健身 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
 </search>
